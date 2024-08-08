@@ -1,3 +1,3 @@
 # Project
 Project repo 
-it is my first repo
+it is my first repository.
